@@ -61,3 +61,8 @@ This experience reinforced the importance of writing clear, well-documented code
 [CS-340 Enhanced Artifact](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS-340.zip)
 ## **Enhanced Artifact**
 [CS-340 Original Artifact](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS340_original.zip)
+
+
+## **Final Reflection**
+
+Developing this ePortfolio allowed me to reflect on how much I have grown throughout the Computer Science program. Revisiting previous projects showed me not only how my technical skills have improved, but also how my approach to software development has matured. I now place greater emphasis on testing, documentation, maintainability, and continuous improvement. As I begin my career in the technology field, I am confident that the experiences represented in this portfolio have prepared me to contribute effectively as a software developer and continue learning throughout my professional journey.
