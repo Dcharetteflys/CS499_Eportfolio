@@ -30,9 +30,9 @@
 
  Enhancing this artifact taught me that developing software involves much more than creating a program that simply works. Revisiting the project allowed me to evaluate my earlier work with a more experienced perspective and address issues that I had not fully resolved during the original course due to time constraints. Troubleshooting syntax mistakes, tracing the source of unpredictable errors, and reorganizing portions of the code strengthened my debugging and analytical skills. It also reinforced the importance of testing, documentation, and thoughtful program design in producing professional-quality software. Through these enhancements, I demonstrated course outcomes related to software design, evaluating and improving existing solutions, debugging complex problems, and applying professional coding practices to create more reliable and maintainable applications.
  
-## **Enhanced Artifact**
+#### **Enhanced Artifact**
 [CS-360 Enhanced](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS-360.zip)
-## **Original Artifact**
+#### **Original Artifact**
 [CS-360 Original](https://github.com/Dcharetteflys/Eportfolio/blob/main/WarehouseInventory.zip)
 
 
@@ -41,13 +41,13 @@ The artifact I selected for this category is a 3D scene project originally creat
 
 Enhancing this artifact taught me that modifying complex applications often affects other areas of the system in unexpected ways. Changes to textures, lighting, and object transformations frequently introduced new issues that required careful testing and debugging to resolve. This experience strengthened my analytical and troubleshooting skills while reinforcing the importance of writing flexible, maintainable code from the beginning of a project. The enhancements allowed me to further demonstrate course outcomes related to applying computer science principles, improving existing software solutions, and using effective design practices. Overall, this artifact reflects both my technical abilities and the growth I experienced through the iterative process of evaluating, refining, and improving my work.
 
-## **Enhanced Artifact**
+#### **Enhanced Artifact**
 [CS-330 Enhanced](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS-330.zip)
 
-## **Original Reference**
+#### **Original Reference**
 [Desk Photo](https://github.com/Dcharetteflys/Eportfolio/blob/main/DeskPhoto.png)
 
-## **Enhancement Three: Databases**
+#### **Enhancement Three: Databases**
 
 The artifact selected for the databases category was enhanced during the summer of 2025 as part of my ePortfolio. It is a Python application that uses PyMongo as the backend for an interactive database designed for animal rescue organizations. The original version implemented basic CRUD (create, read, update, and delete) operations that allowed users to manage records within the database.
 
@@ -57,9 +57,9 @@ This experience reinforced the importance of writing clear, well-documented code
 
 ! [Example Photo of the dashboard](CS-340.png) 
 
-## **Enhanced Artifact**
+#### **Enhanced Artifact**
 [CS-340 Enhanced Artifact](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS-340.zip)
-## **Enhanced Artifact**
+#### **Enhanced Artifact**
 [CS-340 Original Artifact](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS340_original.zip)
 
 
