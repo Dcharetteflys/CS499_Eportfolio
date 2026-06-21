@@ -24,7 +24,9 @@ The artifact I selected for the Software Design and Engineering category is a mo
 Enhancing this artifact taught me that developing software involves much more than creating a program that simply works. Revisiting the project allowed me to evaluate my earlier work with a more experienced perspective and address issues that I had not fully resolved during the original course due to time constraints. Troubleshooting syntax mistakes, tracing the source of unpredictable errors, and reorganizing portions of the code strengthened my debugging and analytical skills. It also reinforced the importance of testing, documentation, and thoughtful program design in producing professional-quality software. Through these enhancements, I demonstrated course outcomes related to software design, evaluating and improving existing solutions, debugging complex problems, and applying professional coding practices to create more reliable and maintainable applications.
 ## **Repository Link**
 [CS-360](https://github.com/Dcharetteflys/Eportfolio/blob/main/CS-360.zip)
-[CS-360 original]()
+[CS-360 original](https://github.com/Dcharetteflys/Eportfolio/blob/main/WarehouseInventory.zip)
+
+
 ## **Enhancement Two: Algorithms and Data Structures**
 The artifact I selected for this category is a 3D scene project originally created in CS 330: Computational Graphics and Visualization during the Spring 2025 semester. The project recreates my personal desk setup using OpenGL and 3D modeling techniques, including objects such as my desk, laptop, monitor, and other items commonly found in my workspace. I chose this artifact because it demonstrates my ability to apply computational graphics concepts, object transformations, textures, and lighting to create an interactive virtual environment. Through the enhancement process, I improved the realism of the scene by refining textures and lighting while reorganizing portions of the code to improve readability and maintainability. These enhancements highlight my skills in problem-solving, software design, and evaluating existing code to implement meaningful improvements.
 
